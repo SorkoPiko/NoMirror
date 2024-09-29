@@ -1,0 +1,36 @@
+{
+	"geode": "3.7.1",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "sorkopiko.nomirror",
+	"name": "NoMirror",
+	"version": "v1.0.0",
+	"developer": "SorkoPiko",
+	"description": "Removes the mirror portal",
+	"links": {
+		"source": "https://github.com/SorkoPiko/NoMirror",
+		"community": "https://discord.gg/8uPFxhxBX9"
+	},
+	"tags": [
+		"universal",
+		"gameplay",
+		"offline",
+		"enhancement",
+		"interface",
+		"utility",
+		"performance",
+		"customization",
+		"joke"
+	],
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.14.1",
+			"importance": "required"
+		}
+	]
+}
